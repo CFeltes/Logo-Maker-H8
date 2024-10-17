@@ -49,8 +49,9 @@ Step-by-step instructions on how to install and set up your project.
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Logo-Maker-H8/
-https://github.com/CFeltes/Logo-Maker-H8
+https://cfeltes.github.io/Logo-Maker-H8/
+https://github.com/CFeltes/Logo-Maker-H8.git
+git@github.com:CFeltes/Logo-Maker-H8.git
 
 ![See First Page Screenshot](Screenshot-1-H8.jpg)
 
