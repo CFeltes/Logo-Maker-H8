@@ -1,5 +1,5 @@
 # Logo-Maker-H8
-Eigth homework assignment
+Eighth homework assignment
 
 
 # Description
@@ -52,9 +52,7 @@ Visit my sites here!
 https://CFeltes.github.io/Logo-Maker-H8/
 https://github.com/CFeltes/Logo-Maker-H8
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot-1-H8.jpg)
 
 
 ## Contributing

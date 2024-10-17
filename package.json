@@ -1,19 +1,25 @@
 {
-    "name": "SVG-Logo-Maker",
-    "version": "1.0.0",
-    "description": "A CLI app to generate SVG logos",
-    "main": "index.js",
-    "scripts": {
-      "test": "jest",
-      "start": "node index.js"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "inquirer": "^8.0.0"
-    },
-    "devDependencies": {
-      "jest": "^27.5.1"
-    }
+  "name": "logo-maker-h8",
+  "version": "1.0.0",
+  "description": "Eighth homework assignment",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFeltes/Logo-Maker-H8.git"
+  },
+  "author": "CFeltes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFeltes/Logo-Maker-H8/issues"
+  },
+  "homepage": "https://github.com/CFeltes/Logo-Maker-H8#readme",
+  "dependencies": {
+    "express": "^4.21.1"
   }
-  
+}
